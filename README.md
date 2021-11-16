@@ -1,3 +1,1 @@
 # git-kurs-test
-
-jdiwauhdliwah
